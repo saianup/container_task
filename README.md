@@ -159,7 +159,7 @@ The robot performs the following sequence:
 A demonstration video of the simulation can be found here:
 
 **Video Link:**  
-*(Google Drive link)*
+*(https://drive.google.com/file/d/11z1NkD_0yGiVycNIChGAIkqbu_-ecgPK/view?usp=sharing)*
 
 
 # Key Advantages of the Approach
